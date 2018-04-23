@@ -1,5 +1,5 @@
 <!DOCTYPE html PUBLIC >
-<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title> ::Contador de Caracteres:: </title>
 
 <script type="text/javascript" language="javascript">
@@ -37,7 +37,6 @@ function contarCaracteres(box,valor,campospan){
 <span id="sprestante" style="font-family:Georgia;"></span>
 </form>
 <br><br>
-<span style="font-family:Georgia;font-size:11px;">by @vilourenco</span>
 
 </body>
 </html>
